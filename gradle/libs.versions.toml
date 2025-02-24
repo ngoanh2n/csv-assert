@@ -7,7 +7,7 @@ univocity-parsers = "2.9.1"
 allure-java       = "2.29.1"
 aspectj           = "1.9.21"
 slf4j             = "2.0.13"
-junit-jupiter     = "5.11.4"
+junit-jupiter     = "5.12.0"
 junit-platform    = "1.11.4"
 allure-plugin     = "2.12.0"
 
